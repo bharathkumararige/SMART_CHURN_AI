@@ -1,0 +1,21 @@
+customerID,review,churn,clean_review,sentiment,polarity,subjectivity
+C001,"The service is absolutely terrible, I am cancelling my plan",1,the service is absolutely terrible i am cancelling my plan,Negative,-1.0,1.0
+C002,"Very happy with the network coverage, excellent service!",0,very happy with the network coverage excellent service,Positive,1.0,1.0
+C003,"Worst customer support ever, they never solve my issues",1,worst customer support ever they never solve my issues,Negative,-1.0,1.0
+C004,"Great value for money, highly recommend this plan",0,great value for money highly recommend this plan,Positive,0.48000000000000004,0.645
+C005,"My internet keeps disconnecting every day, very frustrated",1,my internet keeps disconnecting every day very frustrated,Negative,-0.9099999999999999,0.26
+C006,"Amazing speed and reliable connection, love it!",0,amazing speed and reliable connection love it,Positive,0.55,0.75
+C007,Bills are too high and service quality is poor,1,bills are too high and service quality is poor,Negative,-0.12000000000000001,0.5700000000000001
+C008,Super fast internet and great customer care team,0,super fast internet and great customer care team,Positive,0.4444444444444445,0.6722222222222222
+C009,"I have been waiting for support for 3 weeks, no response",1,i have been waiting for support for  weeks no response,Neutral,0.0,0.0
+C010,"Smooth experience overall, no complaints at all",0,smooth experience overall no complaints at all,Positive,0.2,0.25
+C011,"They charged me extra without any notice, very angry",1,they charged me extra without any notice very angry,Negative,-0.325,0.55
+C012,"Excellent coverage even in rural areas, impressed",0,excellent coverage even in rural areas impressed,Positive,0.6666666666666666,0.6666666666666666
+C013,"Connection drops frequently, thinking of switching",1,connection drops frequently thinking of switching,Neutral,0.1,0.3
+C014,Best telecom provider I have used in years,0,best telecom provider i have used in years,Positive,1.0,0.3
+C015,Very disappointed with the slow speed and high cost,1,very disappointed with the slow speed and high cost,Negative,-0.37166666666666676,0.6383333333333333
+C016,Outstanding service and quick issue resolution,0,outstanding service and quick issue resolution,Positive,0.41666666666666663,0.6875
+C017,"Pathetic network in my area, always getting poor signal",1,pathetic network in my area always getting poor signal,Negative,-0.7,0.8
+C018,Affordable plans and good customer service,0,affordable plans and good customer service,Positive,0.7,0.6000000000000001
+C019,Fed up with constant billing errors every month,1,fed up with constant billing errors every month,Neutral,0.0,0.3333333333333333
+C020,"Totally satisfied with the service, renewing my plan",0,totally satisfied with the service renewing my plan,Positive,0.5,1.0
