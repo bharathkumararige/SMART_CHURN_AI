@@ -40,7 +40,7 @@ model, scaler, feature_names = load_models()
 # SETUP GROQ AI
 # ============================================
 
-GROQ_API_KEY = "YOUR-API-KEY"
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 client = Groq(api_key=GROQ_API_KEY)
 
 # ============================================
