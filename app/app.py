@@ -29,9 +29,9 @@ st.set_page_config(
 
 @st.cache_resource
 def load_models():
-    model    = joblib.load('../models/xgboost_churn_model.pkl')
-    scaler   = joblib.load('../models/scaler.pkl')
-    features = joblib.load('../models/feature_names.pkl')
+    model    = joblib.load('models/xgboost_churn_model.pkl')
+    scaler   = joblib.load('models/scaler.pkl')
+    features = joblib.load('models/feature_names.pkl')
     return model, scaler, features
 
 model, scaler, feature_names = load_models()
